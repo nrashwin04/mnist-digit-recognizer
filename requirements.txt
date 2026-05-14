@@ -1,0 +1,11 @@
+torch
+torchvision
+Pillow
+streamlit
+plotly
+pandas
+streamlit-drawable-canvas
+scikit-learn
+seaborn
+matplotlib
+onnx
