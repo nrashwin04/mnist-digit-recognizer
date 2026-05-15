@@ -11,7 +11,7 @@ A PyTorch-based Convolutional Neural Network (CNN) built to recognize handwritte
 
 ## Live Demo
  
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/niwssa/explainable-ml-dashboard)
+👉 [Try it on Streamlit](https://mnistdigitrecogniser.streamlit.app/)
  
 ## How to Run Locally
 
