@@ -1,4 +1,4 @@
-# Handwritten Digit Recognizer
+# 📝Handwritten Digit Recognizer
 
 A PyTorch-based Convolutional Neural Network (CNN) built to recognize handwritten digits using the MNIST dataset. Includes an interactive web interface built with Streamlit!
 
