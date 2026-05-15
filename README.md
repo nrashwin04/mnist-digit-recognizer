@@ -9,6 +9,10 @@ A PyTorch-based Convolutional Neural Network (CNN) built to recognize handwritte
 - **Detailed Analytics**: Outputs a 10-digit probability bar chart and confidence percentage.
 - **Performance Evaluation**: Generates sklearn Classification Reports and Seaborn Confusion Matrices.
 
+## Live Demo
+ 
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/niwssa/explainable-ml-dashboard)
+ 
 ## How to Run Locally
 
 1. Install dependencies:
